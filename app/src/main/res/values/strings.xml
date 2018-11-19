@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LearningBluetooth</string>
+    <string name="btnOn">On</string>
+    <string name="btnOff">Off</string>
+    <string name="btnShowPaired">Show Paired Devices</string>
+    <string name="btnDiscover">Discover New Devices</string>
+    <string name="btnForward">Forward</string>
+    <string name="btnBack">Back</string>
+    <string name="btnLeft">Left</string>
+    <string name="btnRight">Right</string>
+</resources>
